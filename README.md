@@ -2,7 +2,6 @@
 <p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes%2F3QvV&psig=AOvVaw0LJ3Hs3ktOWf58H01rXFim&ust=1652764053100000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOje-IWg4_cCFQAAAAAdAAAAABAD"/></p>
 
 ### How are you? Thank you for coming to my page 🌻
-<img align="right" alt="img" src="https://i.pinimg.com/originals/9c/35/6c/9c356c9ded0c8d64958ca64d8473ebf1.gif" width="55%" height="auto" />
 Welcome to my Github page!
 
 I´m Andrea, I'm a front-end developer.
