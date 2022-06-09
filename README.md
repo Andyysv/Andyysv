@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p> https://data.whicdn.com/images/315375005/original.gif </p>
+<p https://data.whicdn.com/images/315375005/original.gif > </p>
 
 ### How are you? Thank you for coming to my page 🌻
 Welcome to my Github page!
