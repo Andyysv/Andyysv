@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-ESlint-purple?style=flat&logo=Eslint&logoColor=white">
 <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/-Trello-007ACC?style=flat&logo=Trello&logoColor=white">
+<img src="https://img.shields.io/badge/-React-gray?style=flat&logo=react&logoColor=ffffff">
